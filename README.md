@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abid
-- 👀 I’m interested in coding, reading, learning, making applications.
-- 📫 How to reach me - E-mail: iamabid.932@gmail.com
+- 👋 Hello
+- 👀 I’m interested in coding, reading, learning and making web applications.
+- 📫 How to reach me ? - E-mail: iamabid.932@gmail.com
 
 <!---
 iamabid932/iamabid932 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
